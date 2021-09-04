@@ -1,14 +1,24 @@
+* {
+  margin: 0px;
+}
+
+.navv {
+  background-color: rgb(5, 155, 255);
+  margin: 0;
+}
+
 .navv img {
   width: 40px;
   height: 40px;
 }
 
 .navv li {
+  margin-top: 5px;
   display: inline-block;
 }
 
-.navv li h3 {
-  padding-left: 1300px;
+#a {
+  float: inline-end;
 }
 
 .navv li button {
